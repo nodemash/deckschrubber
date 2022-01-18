@@ -1,6 +1,8 @@
 # Deckschrubber
 > *n. person responsible for scrubbing a ship's deck.*
 
+**FORKED Version with Token Auth Support**
+
 [![Go Report Card](https://goreportcard.com/badge/github.com/fraunhoferfokus/deckschrubber)](https://goreportcard.com/report/github.com/fraunhoferfokus/deckschrubber)
 [![License](https://img.shields.io/github/license/fraunhoferfokus/sesame.svg)](https://github.com/fraunhoferfokus/sesame/blob/master/LICENSE)
 
